@@ -6,3 +6,5 @@ Not perfect Solutions
 New line
 
 New line for branch test
+
+New line for test advanced
