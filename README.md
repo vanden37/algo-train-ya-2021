@@ -8,3 +8,4 @@ New line
 New line for branch test
 
 New line for test advanced
+
